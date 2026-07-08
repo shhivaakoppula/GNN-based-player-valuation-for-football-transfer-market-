@@ -1,1 +1,1 @@
-# GNN-based-player-valuation-for-football-transfer-market-
+# GNN-based player valuation for football transfer market
