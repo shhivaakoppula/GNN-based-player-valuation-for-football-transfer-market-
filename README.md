@@ -1,6 +1,3 @@
-Yes. If you mean **“write the actual `README.md` file that I can put directly into my GitHub repository”**, use this version:
-
-````markdown
 # Football Player Evaluation Using Graph Neural Networks
 
 ## Master's Thesis
