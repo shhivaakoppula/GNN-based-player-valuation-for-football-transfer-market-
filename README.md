@@ -1,4 +1,3 @@
-# GNN-based player valuation for football transfer market
 # Football Player Evaluation Using Graph Neural Networks
 
 ## Master's Thesis
